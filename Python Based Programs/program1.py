@@ -1,3 +1,5 @@
+# Celestial Dashboard: A dashboard that interact with the database and contains information about stars or planets.
+
 import tkinter as tk
 from tkinter import ttk
 import mysql.connector
